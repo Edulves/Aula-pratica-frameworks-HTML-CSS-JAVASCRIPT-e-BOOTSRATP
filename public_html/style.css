@@ -1,0 +1,83 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 13 de abr. de 2024, 15:48:58
+    Author     : Familia
+*/
+
+.form-content {
+    display: flex;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    border: 1px solid #000;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    padding: 20px;
+    flex-wrap: wrap;
+    border-radius: 15px;
+}
+
+.form-item {
+    display: flex;
+    align-items: center;
+}
+
+.mb-3 {
+}
+
+form {
+    flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+}
+
+.row {
+    width: 100%;
+}
+
+.form-label {
+    width: 100%;
+    background-color: #e8ecef;
+    text-align: center;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.btn-primary {
+    background-color: #4d28f1;
+    color: #fff;
+    border: none;
+    padding: 10px 40px;
+    text-transform: uppercase;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.btn-primary:hover {
+    background-color: #4d28f1;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
